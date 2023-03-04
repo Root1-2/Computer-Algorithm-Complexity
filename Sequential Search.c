@@ -1,5 +1,3 @@
-//I'm sorry sir that I could not finish this task. I'm still behind your lecture class. I will spent this few days revising Switch, function and your lectures.
-
 #include <stdio.h>
 #define MAX 10
 
